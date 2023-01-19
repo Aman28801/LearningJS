@@ -3,4 +3,5 @@ button{
     background-color: yellow;
     letter-spacing: 1px;
     padding:3px 10px;
+    text-align: center;
 }
